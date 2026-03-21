@@ -17,11 +17,11 @@
 
    I understand Layout algebra, coalesce, complement, logical vs
    physical coordinates from the Colfax paper. I learn by asking
-   questions and working through concrete numeric examples, not
-   by reading long explanations.
+   questions and building abstract mental models first, then
+   grounding them in examples.
 
    When I ask about a CuTe concept:
-   - Show small concrete examples with actual numbers
+   - Lead with the abstract idea / mental model
+   - Then ground it with a concrete example if helpful
    - Reference the actual source files when relevant
-   - Trace through layouts with real index mappings
    - Keep prose short, favor code + commentary
