@@ -9,6 +9,7 @@ pip install torch
 pip install matplotlib
 pip install pandas
 pip install nvidia-cutlass-dsl
+pip install -U git+https://github.com/NTT123/cute-viz.git
 git clone https://github.com/NVIDIA/cutlass.git
 git clone https://github.com/PranavDeepakSathya/theCudaBender.git
 

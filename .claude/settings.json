@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(find /root/cuteDSLbender -name \"*.py\" -type f -exec grep -l \"MmaF16BF16Op\\\\|make_tiled_mma\\\\|partition_A\\\\|partition_B\" {} \\\\;)"
+      "Bash(find /root/cuteDSLbender -name \"*.py\" -type f -exec grep -l \"MmaF16BF16Op\\\\|make_tiled_mma\\\\|partition_A\\\\|partition_B\" {} \\\\;)",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
     ]
   }
 }
